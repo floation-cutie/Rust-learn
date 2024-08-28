@@ -1,0 +1,4 @@
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.04s
+     Running `target/debug/io_project to test.txt`
+Are you nobody, too?
+How dreary to be somebody!
